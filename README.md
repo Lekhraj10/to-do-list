@@ -1,7 +1,9 @@
 # to-do-list App
-Skills: HTML, CSS, JavaScript Dom Manipulation, events.
+<b>Skills<b>:
 <br>
-Features: 
+HTML, CSS, JavaScript Dom Manipulation, events.
+<br>
+<b>Features: <b>
 <br>
 Add tasks, mark them as completed and delete tasks
 <br>
